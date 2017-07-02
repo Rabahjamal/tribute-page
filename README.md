@@ -1,2 +1,2 @@
 # tribute-page
-tribute page about Nelson Mandela
+A web page talking about Nelson Mandela. You can check it using this URL: https://rabahjamal.github.io/tribute-page/.
